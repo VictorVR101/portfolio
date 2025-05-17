@@ -10,7 +10,7 @@ function App() {
     <>
       <p className='text-red-500'>Hello, world</p>
       <div className='h-7 w-7 bg-red-600'>
-
+        <p>Test</p>
       </div>
     </>
   )
