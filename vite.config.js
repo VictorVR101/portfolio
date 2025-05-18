@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/portfolio/", // 🔥 Fixes the path for GitHub Pages!
+  base: "/", // <- root path for custom domain
 });
